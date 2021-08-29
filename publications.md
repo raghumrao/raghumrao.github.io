@@ -6,10 +6,9 @@ permalink: /publications/
 
 ## Journal Papers and Magazine Articles
 ### Published
+[J6] **R. M. Rao**, A. V. Padaki, B. L. Ng, Y. Yi, M. Kang and V. Marojevic, "ToA-based Localization of Far-Away Targets: Equi-DOP Surfaces, Asymptotic Bounds, and Dimension Adaptation," *To Appear in IEEE Transactions on Vehicular Technology*.
 
-[J6] **R. M. Rao**, H. S. Dhillon, V. Marojevic and J. H. Reed, “Underlay Radar-Massive MIMO Spectrum Sharing: Modeling Fundamentals and Performance Analysis,” *IEEE Transactions on Wireless Communications*, doi: 10.1109/TWC.2021.3081458, 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9440894">(IEEEXplore)</a><a href="https://arxiv.org/pdf/2008.02100.pdf">(arXiv)</a>  
-
-[J5] **R. M. Rao**, A. V. Padaki, B. L. Ng, Y. Yi, M. Kang and V. Marojevic, "ToA-based Localization of Far-Away Targets: Equi-DOP Surfaces, Asymptotic Bounds, and Dimension Adaptation," *Accepted with Minor Revisions in IEEE Transactions on Vehicular Technology*.
+[J5] **R. M. Rao**, H. S. Dhillon, V. Marojevic and J. H. Reed, “Underlay Radar-Massive MIMO Spectrum Sharing: Modeling Fundamentals and Performance Analysis,” *IEEE Transactions on Wireless Communications*, doi: 10.1109/TWC.2021.3081458, 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9440894">(IEEEXplore)</a><a href="https://arxiv.org/pdf/2008.02100.pdf">(arXiv)</a>  
 
 [J4] **R. M. Rao**, V. Marojevic and J. H. Reed, "Semi-Blind Post-Equalizer SINR Estimation and Dual CSI Feedback for Radar-Cellular Coexistence," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 9, pp. 9720-9735, 2020. <a href="https://ieeexplore.ieee.org/document/9115897">(IEEEXplore)</a><a href="https://arxiv.org/pdf/2006.01327.pdf">(arXiv)</a>
 
