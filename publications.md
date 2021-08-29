@@ -6,19 +6,19 @@ permalink: /publications/
 
 ## Journal Papers and Magazine Articles
 ### Published
-[J6] **R. M. Rao**, A. V. Padaki, B. L. Ng, Y. Yi, M. Kang and V. Marojevic, "ToA-based Localization of Far-Away Targets: Equi-DOP Surfaces, Asymptotic Bounds, and Dimension Adaptation," *To Appear in IEEE Transactions on Vehicular Technology*.
+[J7] **R. M. Rao**, A. V. Padaki, B. L. Ng, Y. Yi, M. Kang and V. Marojevic, "ToA-based Localization of Far-Away Targets: Equi-DOP Surfaces, Asymptotic Bounds, and Dimension Adaptation," *To Appear in IEEE Transactions on Vehicular Technology*.
 
-[J5] **R. M. Rao**, H. S. Dhillon, V. Marojevic and J. H. Reed, “Underlay Radar-Massive MIMO Spectrum Sharing: Modeling Fundamentals and Performance Analysis,” *IEEE Transactions on Wireless Communications*, doi: 10.1109/TWC.2021.3081458, 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9440894">(IEEEXplore)</a><a href="https://arxiv.org/pdf/2008.02100.pdf">(arXiv)</a>  
+[J6] **R. M. Rao**, H. S. Dhillon, V. Marojevic and J. H. Reed, “Underlay Radar-Massive MIMO Spectrum Sharing: Modeling Fundamentals and Performance Analysis,” *IEEE Transactions on Wireless Communications*, doi: 10.1109/TWC.2021.3081458, 2021. <a href="https://ieeexplore.ieee.org/abstract/document/9440894">(IEEEXplore)</a><a href="https://arxiv.org/pdf/2008.02100.pdf">(arXiv)</a>  
 
-[J4] **R. M. Rao**, V. Marojevic and J. H. Reed, "Semi-Blind Post-Equalizer SINR Estimation and Dual CSI Feedback for Radar-Cellular Coexistence," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 9, pp. 9720-9735, 2020. <a href="https://ieeexplore.ieee.org/document/9115897">(IEEEXplore)</a><a href="https://arxiv.org/pdf/2006.01327.pdf">(arXiv)</a>
+[J5] **R. M. Rao**, V. Marojevic and J. H. Reed, "Semi-Blind Post-Equalizer SINR Estimation and Dual CSI Feedback for Radar-Cellular Coexistence," *IEEE Transactions on Vehicular Technology*, vol. 69, no. 9, pp. 9720-9735, 2020. <a href="https://ieeexplore.ieee.org/document/9115897">(IEEEXplore)</a><a href="https://arxiv.org/pdf/2006.01327.pdf">(arXiv)</a>
 
-[J3] B. Shang, L. Liu, **R. M. Rao**, V. Marojevic, J. H. Reed, "3D Spectrum Sharing for Hybrid D2D and UAV Networks," *IEEE Transactions on Communications*, vol. 68, no. 9, pp. 5375-5389, 2020. <a href="https://ieeexplore.ieee.org/document/9102315">(IEEEXplore)</a>
+[J4] B. Shang, L. Liu, **R. M. Rao**, V. Marojevic, J. H. Reed, "3D Spectrum Sharing for Hybrid D2D and UAV Networks," *IEEE Transactions on Communications*, vol. 68, no. 9, pp. 5375-5389, 2020. <a href="https://ieeexplore.ieee.org/document/9102315">(IEEEXplore)</a>
 
-[J2] **R. M. Rao**, V. Marojevic and J. H. Reed, "Probability of Pilot Interference in Radar-Cellular Coexistence: Insights on Demodulation, CSI Estimation, and Limited Feedback," *IEEE Communications Letters*, vol. 24, no. 8, pp. 1678-1682, 2020. <a href="https://ieeexplore.ieee.org/document/9082626">(IEEEXplore)</a><a href="https://arxiv.org/pdf/2005.00122.pdf">(arXiv)</a>
+[J3] **R. M. Rao**, V. Marojevic and J. H. Reed, "Probability of Pilot Interference in Radar-Cellular Coexistence: Insights on Demodulation, CSI Estimation, and Limited Feedback," *IEEE Communications Letters*, vol. 24, no. 8, pp. 1678-1682, 2020. <a href="https://ieeexplore.ieee.org/document/9082626">(IEEEXplore)</a><a href="https://arxiv.org/pdf/2005.00122.pdf">(arXiv)</a>
 
-[J1] **R. M. Rao**, V. Marojevic and J. H. Reed, "Adaptive Pilot Patterns for CA-OFDM Systems in Nonstationary Wireless Channels," *IEEE Transactions on Vehicular Technology*, vol. 67, no. 2, pp. 1231-1244, Feb. 2018. <a href="https://ieeexplore.ieee.org/abstract/document/8031997">(IEEEXplore)</a><a href="https://arxiv.org/pdf/1709.03176">(arXiv)</a>
+[J2] **R. M. Rao**, V. Marojevic and J. H. Reed, "Adaptive Pilot Patterns for CA-OFDM Systems in Nonstationary Wireless Channels," *IEEE Transactions on Vehicular Technology*, vol. 67, no. 2, pp. 1231-1244, Feb. 2018. <a href="https://ieeexplore.ieee.org/abstract/document/8031997">(IEEEXplore)</a><a href="https://arxiv.org/pdf/1709.03176">(arXiv)</a>
 
-[M1] M. Lichtman, R. P. Jover, M. Labib, **R. M. Rao**, V. Marojevic and J. H. Reed, "LTE/LTE-A Jamming, Spoofing, and Sniffing: Threat Assessment and Mitigation," *IEEE Communications Magazine*, vol. 54, no. 4, pp. 54-61, April 2016. <a href="https://ieeexplore.ieee.org/abstract/document/7452266">(IEEEXplore)</a><a href="http://rogerpiquerasjover.net/LTE_Jamming_Magazine_Paper_final.pdf">(PDF)</a>
+[J1] M. Lichtman, R. P. Jover, M. Labib, **R. M. Rao**, V. Marojevic and J. H. Reed, "LTE/LTE-A Jamming, Spoofing, and Sniffing: Threat Assessment and Mitigation," *IEEE Communications Magazine*, vol. 54, no. 4, pp. 54-61, April 2016. <a href="https://ieeexplore.ieee.org/abstract/document/7452266">(IEEEXplore)</a><a href="http://rogerpiquerasjover.net/LTE_Jamming_Magazine_Paper_final.pdf">(PDF)</a>
 
 ## Conference Papers
 [C9] **R. M. Rao**, H. S. Dhillon, V. Marojevic, J. H. Reed, "Analysis of Worst-Case Interference in Underlay Radar-Massive MIMO Spectrum Sharing Scenarios," *in Proc. IEEE Global Communications Conference (Globecom)*, pp. 1-6, Waikoloa, HI, 2019. <a href="https://ieeexplore.ieee.org/document/9013615">(IEEEXplore)</a><a href="https://arxiv.org/pdf/1907.09536.pdf">(arXiv)</a>
