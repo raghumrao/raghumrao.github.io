@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Journal Papers and Magazine Articles
 ### Published
-[J7] **R. M. Rao**, A. V. Padaki, B. L. Ng, Y. Yi, M. Kang and V. Marojevic, "ToA-based Localization of Far-Away Targets: Equi-DOP Surfaces, Asymptotic Bounds, and Dimension Adaptation," *IEEE Transactions on Vehicular Technology*, pp. 1-1, 2021. doi: 10.1109/TVT.2021.3110521 <a href="https://ieeexplore.ieee.org/document/9531485">(IEEEXplore)</a>
+[J7] **R. M. Rao**, A. V. Padaki, B. L. Ng, Y. Yi, M. Kang and V. Marojevic, "ToA-based Localization of Far-Away Targets: Equi-DOP Surfaces, Asymptotic Bounds, and Dimension Adaptation," *IEEE Transactions on Vehicular Technology*, vol. 70, no. 10, pp. 11089-11094, 2021. <a href="https://ieeexplore.ieee.org/document/9531485">(IEEEXplore)</a>
 
 [J6] **R. M. Rao**, H. S. Dhillon, V. Marojevic and J. H. Reed, “Underlay Radar-Massive MIMO Spectrum Sharing: Modeling Fundamentals and Performance Analysis,” *IEEE Transactions on Wireless Communications*, pp. 1-1, 2021. doi: 10.1109/TWC.2021.3081458 <a href="https://ieeexplore.ieee.org/abstract/document/9440894">(IEEEXplore)</a><a href="https://arxiv.org/pdf/2008.02100.pdf">(arXiv)</a>  
 
