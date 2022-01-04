@@ -6,12 +6,12 @@ permalink: /
 
 {% include image.html url="/IMG_7549.JPG" caption="" width="278" height="371" align="right" %}
 
-I am a Senior Research Engineer at Samsung Research America, where I work in the Standards and Mobility Innovation (SMI) Lab. I graduated with a Ph.D. in [Electrical Engineering](https://ece.vt.edu/) from [Virginia Tech](https://vt.edu/), where I was affiliated with the [Wireless@VT Research Group](https://wireless.vt.edu/) advised by [Dr. Jeffrey H. Reed](https://reed.wireless.vt.edu/) and [Dr. Vuk Marojevic](https://sites.google.com/view/vuk-marojevic). I have a strong experience in undertaking research on fundamental as well as practical aspects of wireless communications. I have made several research contributions in the areas of 4G/5G PHY layer security, flexible cellular PHY layer protocol design, spectrum sharing, and localization. I currently serve as an Editor of the IEEE Transactions on Vehicular Technology.
+I am a Systems Development Engineer at Amazon Lab126. Prior to this, I was a Senior Research Engineer at Samsung Research America (SRA), where I worked in the Standards and Mobility Innovation (SMI) Lab. I graduated with a Ph.D. in [Electrical Engineering](https://ece.vt.edu/) from [Virginia Tech](https://vt.edu/), where I was affiliated with the [Wireless@VT Research Group](https://wireless.vt.edu/) advised by [Dr. Jeffrey H. Reed](https://reed.wireless.vt.edu/) and [Dr. Vuk Marojevic](https://sites.google.com/view/vuk-marojevic). I have a strong experience in undertaking research on fundamental as well as practical aspects of wireless communications. I have made several research contributions in the areas of 4G/5G PHY layer security, flexible cellular PHY layer protocol design, spectrum sharing, and localization. I currently serve as an Editor of the IEEE Transactions on Vehicular Technology.
 
 ## Current Research Interests
 1. Spectrum sharing
 2. PHY layer security
-3. Vehicular and UAV communications
+3. Localization
 4. Beyond-5G Cellular Systems
 
 ## Contact
