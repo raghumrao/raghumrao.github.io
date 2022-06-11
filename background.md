@@ -18,13 +18,16 @@ Rashtreeya Vidyalaya College of Engineering, Bangalore, Karnataka, India
 Bachelor of Engineering, Telecommunication Engineering <I><span style="float: right;">Fall 2007 - Spring 2011</span></I>   
 
 ## Professional Experience
-Samsung Research America (SRA), Plano, TX, USA  
-Senior Research Enginner, Standards and Mobility Innovation (SMI) Lab <I><span style="float: right;">October 2020 - present</span></I>  
+Amazon Lab126, Sunnyvale, CA, USA  
+System Development Engineer, Wireless Technology Group <I><span style="float: right;">January 2022 - present</span></I>  
+
+[Samsung Research America (SRA)](https://www.sra.samsung.com/), Plano, TX, USA  
+Senior Research Enginner, Standards and Mobility Innovation (SMI) Lab <I><span style="float: right;">October 2020 - December 2021</span></I>  
 
 [Virginia Tech](https://vt.edu/), Blacksburg, VA, USA  
 Graduate Research Assistant, [Wireless@VT](https://wireless.vt.edu/) <I><span style="float: right;">Summer 2015 - Summer 2020</span></I>  
 
-Samsung Research America (SRA), Plano, TX, USA  
+[Samsung Research America (SRA)](https://www.sra.samsung.com/), Plano, TX, USA  
 Summer Intern, Standards and Mobility Innovation (SMI) Lab <I><span style="float: right;">Summer 2019</span></I>  
 
 MACOM Technology Solutions Inc., Lowell, MA, USA  
