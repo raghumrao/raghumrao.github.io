@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 ## Journal Papers and Magazine Articles
+### In Preparation
+[I1] **R. M. Rao**, D. R. Emenonye, "Iterative RNDOP-Optimal Anchor Placement for Vehicle-Centric ToA-based Localization: Performance Bounds and Heuristic Algorithms," *to be submitted*.
 ### Published
 [J7] **R. M. Rao**, A. V. Padaki, B. L. Ng, Y. Yi, M. Kang and V. Marojevic, "ToA-based Localization of Far-Away Targets: Equi-DOP Surfaces, Asymptotic Bounds, and Dimension Adaptation," *IEEE Transactions on Vehicular Technology*, vol. 70, no. 10, pp. 11089-11094, 2021. <a href="https://ieeexplore.ieee.org/document/9531485">(IEEEXplore)</a>
 
@@ -49,4 +51,4 @@ permalink: /publications/
 ## Patents
 [P1] **R. M. Rao**, D. Bethanabhotla, R. C. Palat, "Enhancing Throughput using Agile Beam Switching and User Scheduling in Cellular Systems," US Patent No. 11196470, 2021. <a href="https://patentimages.storage.googleapis.com/8a/3f/42/eeb10559e8a222/US11196470.pdf">(PDF)</a>
 
-[P2] A. V. Padaki, B. L. Ng, C. Saha, **R. M. Rao**, Y. Yang, M. Kang, "Method and apparatus for localization," US Patent App. No. 16/998929, 2020. <a href="https://patentimages.storage.googleapis.com/9b/f4/5b/a3b9056b7f2a7d/US20210058744A1.pdf">(PDF)</a>
+[P2] A. V. Padaki, B. L. Ng, C. Saha, **R. M. Rao**, Y. Yang, M. Kang, "Method and apparatus for localization," US Patent No. 11343646, 2022. <a href="https://patentimages.storage.googleapis.com/d9/9c/b0/7639a57ddbfccd/US11343646.pdf">(PDF)</a>
