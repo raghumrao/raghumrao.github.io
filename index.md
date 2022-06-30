@@ -17,4 +17,4 @@ I am a Systems Development Engineer at Amazon Lab126. Prior to this, I was a Sen
 ## Contact
 
 Raghunandan M. Rao <br />
-[e-mail](mailto:raghumr@vt.edu)/[Google Scholar](https://scholar.google.com/citations?user=yrj1MFQAAAAJ&hl=en)/[LinkedIn](https://www.linkedin.com/in/raghunandanmrao)/[Resume](https://drive.google.com/file/d/1DPppAE6fMaibdACZYgVLnOhhkP3RLcUN/view?usp=sharing)/[Full CV](https://drive.google.com/file/d/12IHutzOkomvQMut46Xbq_aZ8ZowvYnQZ/view?usp=sharing)<br />
+[e-mail](mailto:raghumr@vt.edu)/[Google Scholar](https://scholar.google.com/citations?user=yrj1MFQAAAAJ&hl=en)/[Resume](https://drive.google.com/file/d/1DPppAE6fMaibdACZYgVLnOhhkP3RLcUN/view?usp=sharing)/[Full CV](https://drive.google.com/file/d/12IHutzOkomvQMut46Xbq_aZ8ZowvYnQZ/view?usp=sharing)<br />
