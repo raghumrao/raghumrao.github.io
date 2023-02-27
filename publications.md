@@ -50,9 +50,9 @@ permalink: /publications/
 
 ## Patents
 ### Patent Aplications
-[PA2] R. M. Rao, Y. Zhu, N. Dawar, S. Li, B. L. Ng, "Method and Apparatus for Activity Detection and Recognition based on Radar Measurements," US Patent App 20230039849. <a href="https://www.freepatentsonline.com/20230039849.pdf">(PDF)</a>
+[PA2] **R. M. Rao**, Y. Zhu, N. Dawar, S. Li, B. L. Ng, "Method and Apparatus for Activity Detection and Recognition based on Radar Measurements," US Patent App 20230039849. <a href="https://www.freepatentsonline.com/20230039849.pdf">(PDF)</a>
 
-[PA1] V. H. Nguyen, R. M. Rao, Y. Zhu, Y. Yi, J. Shin, "Joint Estimation of Respiratory and Heart Rates Using Ultra-Wideband Radar," US Patent App. 20220373646. <a href="https://www.freepatentsonline.com/20220373646.pdf">(PDF)</a> 
+[PA1] V. H. Nguyen, **R. M. Rao**, Y. Zhu, Y. Yi, J. Shin, "Joint Estimation of Respiratory and Heart Rates Using Ultra-Wideband Radar," US Patent App. 20220373646. <a href="https://www.freepatentsonline.com/20220373646.pdf">(PDF)</a> 
 
 ### Approved
 [P2] A. V. Padaki, B. L. Ng, C. Saha, **R. M. Rao**, Y. Yang, M. Kang, "Method and apparatus for localization," US Patent No. 11343646, 2022. <a href="https://patentimages.storage.googleapis.com/d9/9c/b0/7639a57ddbfccd/US11343646.pdf">(PDF)</a>
