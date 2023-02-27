@@ -54,7 +54,7 @@ permalink: /publications/
 
 [PA1] V. H. Nguyen, R. M. Rao, Y. Zhu, Y. Yi, J. Shin, "Joint Estimation of Respiratory and Heart Rates Using Ultra-Wideband Radar," US Patent App. 20220373646. <a href="https://www.freepatentsonline.com/20220373646.pdf">(PDF)</a> 
 
-###Approved
+### Approved
 [P2] A. V. Padaki, B. L. Ng, C. Saha, **R. M. Rao**, Y. Yang, M. Kang, "Method and apparatus for localization," US Patent No. 11343646, 2022. <a href="https://patentimages.storage.googleapis.com/d9/9c/b0/7639a57ddbfccd/US11343646.pdf">(PDF)</a>
 
 [P1] **R. M. Rao**, D. Bethanabhotla, R. C. Palat, "Enhancing Throughput using Agile Beam Switching and User Scheduling in Cellular Systems," US Patent No. 11196470, 2021. <a href="https://patentimages.storage.googleapis.com/8a/3f/42/eeb10559e8a222/US11196470.pdf">(PDF)</a>
