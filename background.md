@@ -4,10 +4,10 @@ layout: page
 permalink: "/background/"
 ---
 ## Professional Experience
-Indian Institute of Technology Gandhinagar, Palaj, Gujarat, India
+[Indian Institute of Technology Gandhinagar](https://iitgn.ac.in/), Palaj, Gujarat, India  
 Assistant Professor, Department of Electrical Engineering <I><span style="float: right;">July 2025 - present</span></I>  
 
-Amazon Lab126, Sunnyvale, CA, USA  
+[Amazon Lab126](https://www.amazon.jobs/content/en/teams/devices-and-services/lab126), Sunnyvale, CA, USA  
 System Development Engineer, Wireless Technology Group <I><span style="float: right;">January 2022 - November 2024</span></I>  
 
 [Samsung Research America (SRA)](https://www.sra.samsung.com/), Plano, TX, USA  
