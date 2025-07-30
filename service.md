@@ -19,6 +19,8 @@ I have served as a reviewer for the following publication venues.
 4. *IEEE Wireless Communications Letters*
 5. *IEEE Communications Letters*
 6. *IEEE Systems Journal*
+7. *IEEE Journal on Selected Areas in Information Theory*
+8. *IEEE Transactions on Wireless Communications*
 
 ### Peer-reviewed Conferences
 1. *IEEE Globecom*
