@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Journal Papers and Magazine Articles
 ### Published
-[J8] **R. M. Rao**, D. R. Emenonye, "Iterative RNDOP-Optimal Anchor Placement for Vehicle-Centric ToA-based Localization: Performance Bounds and Heuristic Algorithms," *IEEE Transactions on Vehicular Technology*, pp. 1-16, DOI: 10.1109/TVT.2023.3347891. <a href="https://ieeexplore.ieee.org/abstract/document/10384763">(IEEEXplore)</a><a href="https://arxiv.org/abs/2212.08762">(arXiv)</a> 
+[J8] **R. M. Rao**, D. R. Emenonye, "Iterative RNDOP-Optimal Anchor Placement for Vehicle-Centric ToA-based Localization: Performance Bounds and Heuristic Algorithms," *IEEE Transactions on Vehicular Technology*, vol. 73, no. 5, pp. 7287-7303, 2024. <a href="https://ieeexplore.ieee.org/abstract/document/10384763">(IEEEXplore)</a><a href="https://arxiv.org/abs/2212.08762">(arXiv)</a> 
 
 [J7] **R. M. Rao**, A. V. Padaki, B. L. Ng, Y. Yi, M. Kang and V. Marojevic, "ToA-based Localization of Far-Away Targets: Equi-DOP Surfaces, Asymptotic Bounds, and Dimension Adaptation," *IEEE Transactions on Vehicular Technology*, vol. 70, no. 10, pp. 11089-11094, 2021. <a href="https://ieeexplore.ieee.org/document/9531485">(IEEEXplore)</a>
 
