@@ -23,6 +23,8 @@ permalink: /publications/
 [J1] M. Lichtman, R. P. Jover, M. Labib, **R. M. Rao**, V. Marojevic and J. H. Reed, "LTE/LTE-A Jamming, Spoofing, and Sniffing: Threat Assessment and Mitigation," *IEEE Communications Magazine*, vol. 54, no. 4, pp. 54-61, April 2016. <a href="https://ieeexplore.ieee.org/abstract/document/7452266">(IEEEXplore)</a><a href="http://rogerpiquerasjover.net/LTE_Jamming_Magazine_Paper_final.pdf">(PDF)</a>
 
 ## Conference Papers
+[C10] **R. M. Rao**, A. Kachroo, K. A. Manjunatha, M. Hsu and R. Kumar, "Sub-Resolution mmWave FMCW Radar-based Touch Localization using Deep Learning," IEEE 100th Vehicular Technology Conference (VTC2024-Fall), pp. 1-7, 2024. <a href="https://ieeexplore.ieee.org/abstract/document/10757951">(IEEEXplore)</a><a href="https://arxiv.org/pdf/2408.03485">(arXiv)</a>
+
 [C9] **R. M. Rao**, H. S. Dhillon, V. Marojevic, J. H. Reed, "Analysis of Worst-Case Interference in Underlay Radar-Massive MIMO Spectrum Sharing Scenarios," *in Proc. IEEE Global Communications Conference (Globecom)*, pp. 1-6, Waikoloa, HI, 2019. <a href="https://ieeexplore.ieee.org/document/9013615">(IEEEXplore)</a><a href="https://arxiv.org/pdf/1907.09536.pdf">(arXiv)</a>
 
 [C8] **R. M. Rao**, D. Bethanabhotla, R. C. Palat, "Enhancing Throughput using Agile Beam Switching and User Scheduling in Cellular Systems," *in Proc. IEEE 90th Vehicular Technology Conference (VTC-Fall)*, Honolulu, HI, 2019, pp. 1-7. <a href="https://ieeexplore.ieee.org/document/8891428">(IEEEXplore)</a>
@@ -49,12 +51,14 @@ permalink: /publications/
 [T1] **R. M. Rao**, "P-Type Schottky Waveguide Photodiodes," *M.Tech. Thesis, Indian Institute of Technology Kanpur*, 2013. 
 
 ## Patents
-### Patent Aplications
+### Applications
 [PA2] **R. M. Rao**, Y. Zhu, N. Dawar, S. Li, B. L. Ng, "Method and Apparatus for Activity Detection and Recognition based on Radar Measurements," US Patent App 20230039849. <a href="https://www.freepatentsonline.com/20230039849.pdf">(PDF)</a>
 
 [PA1] V. H. Nguyen, **R. M. Rao**, Y. Zhu, Y. Yi, J. Shin, "Joint Estimation of Respiratory and Heart Rates Using Ultra-Wideband Radar," US Patent App. 20220373646. <a href="https://www.freepatentsonline.com/20220373646.pdf">(PDF)</a> 
 
 ### Approved
+[P3] M. Y. Hsu, R. M. Rao, A. Kachroo, K. A. Manjunatha, "System for Touch Interaction with Non-Touchscreen Display," US Patent No. 12353638, 2025. <a href="https://patentimages.storage.googleapis.com/27/97/b5/e3e08ec7233130/US12353638B1.pdf">(PDF)</a>
+
 [P2] A. V. Padaki, B. L. Ng, C. Saha, **R. M. Rao**, Y. Yang, M. Kang, "Method and apparatus for localization," US Patent No. 11343646, 2022. <a href="https://patentimages.storage.googleapis.com/d9/9c/b0/7639a57ddbfccd/US11343646.pdf">(PDF)</a>
 
 [P1] **R. M. Rao**, D. Bethanabhotla, R. C. Palat, "Enhancing Throughput using Agile Beam Switching and User Scheduling in Cellular Systems," US Patent No. 11196470, 2021. <a href="https://patentimages.storage.googleapis.com/8a/3f/42/eeb10559e8a222/US11196470.pdf">(PDF)</a>
